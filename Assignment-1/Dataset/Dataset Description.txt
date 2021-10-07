@@ -1,0 +1,34 @@
+Description of 1K Dataset:
+
+Total nodes = 1000
+Min range = 249237060
+Max range = 4233044629
+Total edges = 2254
+Min range = 1
+Max range = 45
+
+Description of 5K Dataset:
+
+Total nodes = 5000
+Min range = 58061203
+Max range = 4236045126
+Total edges = 11254
+Min range = 1
+Max range = 66
+
+Description of 23K Dataset:
+
+Total nodes = 23851
+Min range = 1
+Max range = 4689583913
+Total edges = 51808
+Min range = 1
+Max range = 141
+
+Description of 65K Dataset:
+Total nodes = 65914
+Min range = 1
+Max range = 4692548925
+Total edges = 144424
+Min range = 1
+Max range = 262
