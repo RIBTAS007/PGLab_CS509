@@ -59,3 +59,9 @@ We will have following major test cases:
 your code. We may also change **B** and **M** values accordingly. Make sure your code is robust to these kinds of changes.
 
 ### Solution
+
+![Output](output/Sol3.png)
+
+![Output](output/Sol1.png)
+
+![Output](output/Sol2.png)
