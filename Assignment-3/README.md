@@ -52,9 +52,9 @@ appropriately. Scalability testing would be done on large datasets.
 
 ### Solution 
 
-0.  Use [genetare_input.o](genetare_input.o) to generate random 'N' sample input in [input.txt](input.txt) file
+0.  Use [generate.o](generateut.o) to generate random 'N' sample input in [input.txt](input.txt) file
 
-1.  Execute [Project.o](Project.o) file and make sure input.txt file is also present in the same folder.
+1.  Execute [Project.o](poject.o) file and make sure input.txt file is also present in the same folder.
 
 2.  It will ask to enter the size of bucket
 
