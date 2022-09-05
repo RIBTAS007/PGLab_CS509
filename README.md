@@ -4,7 +4,7 @@ Hello Everyone, this repo contains all my assignments/Projects that I solved whi
 
 ## Assignments and Solution
 
-| S.No.   | Assignment | Solution    |
+| S.No.   | Assignment | Output and other files    |
 | ------------- | ------------- | ------------- |
 | 1.  | [Shortest Path between two locations](Assignment-1/README.md)  | [Solution](Assignment-1/Solution.out)  [Dataset](Assignment-1/Dataset)   |
 | 2.  |[Disk Block Storage Simulation](Assignment-2/README.md)  |[Data_generator](Assignment-2/data_generator.o) [Quicksort](Assignment-2/quick_sort.o) [m_way_merge](Assignment-2/m_way_merge.o)  |
